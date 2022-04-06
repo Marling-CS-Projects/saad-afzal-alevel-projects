@@ -11,3 +11,7 @@ Anon (2019). _Pokémon in Figures_. \[online] The Pokémon Company. Available at
 
 
 Hallman, C. (2020). _The Top 50 Highest-Grossing Video Game Franchises_. \[online] www.titlemax.com. Available at: [https://www.titlemax.com/discovery-center/lifestyle/the-top-50-highest-grossing-video-game-franchises/](https://www.titlemax.com/discovery-center/lifestyle/the-top-50-highest-grossing-video-game-franchises/) \[Accessed 5 Apr. 2022].
+
+
+
+Cullen, W., Gulati, G. and Kelly, B.D. (2020). Mental health in the Covid-19 pandemic. _QJM: An International Journal of Medicine_, \[online] 113(5). Available at: [https://academic.oup.com/qjmed/article/113/5/311/5813733?login=false](https://academic.oup.com/qjmed/article/113/5/311/5813733?login=false) \[Accessed 6 Apr. 2022].
