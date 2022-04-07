@@ -18,4 +18,4 @@ Cullen, W., Gulati, G. and Kelly, B.D. (2020). Mental health in the Covid-19 pan
 
 
 
-Clement, J. (2022). _Global unit sales of Pokémon video games 2020_. \[online] Statista. Available at: https://www.statista.com/statistics/1072224/pokemon-unit-sales-worldwide/ \[Accessed 6 Apr. 2022].
+Clement, J. (2022). _Global unit sales of Pokémon video games 2020_. \[online] Statista. Available at: [https://www.statista.com/statistics/1072224/pokemon-unit-sales-worldwide/](https://www.statista.com/statistics/1072224/pokemon-unit-sales-worldwide/) \[Accessed 6 Apr. 2022].
