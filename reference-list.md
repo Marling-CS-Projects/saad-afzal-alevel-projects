@@ -4,7 +4,7 @@ Smirni, D., Garufo, E., Di Falco, L. and Lavanco, G. (2021). The Playing Brain. 
 
 
 
-Bach, D. (2021). _Mind games: How gaming can play a positive role in mental health_. \[online] Stories. Available at:[https://news.microsoft.com/features/mind-games-how-gaming-can-play-a-positive-role-in-mental-health/#:\~:text=The%20study%20found%20that%2084,16%20months%20into%20the%20pandemic.](https://news.microsoft.com/features/mind-games-how-gaming-can-play-a-positive-role-in-mental-health/#:\~:text=The%20study%20found%20that%2084,16%20months%20into%20the%20pandemic.)\[Accessed 22 Mar. 2022].
+Bach, D. (2021). _Mind games: How gaming can play a positive role in mental health_. \[online] Stories. Available at:[https://news.microsoft.com/features/mind-games-how-gaming-can-play-a-positive-role-in-mental-health/#:\~:text=The%20study%20found%20that%2084,16%20months%20into%20the%20pandemic.](https://news.microsoft.com/features/mind-games-how-gaming-can-play-a-positive-role-in-mental-health/)\[Accessed 22 Mar. 2022].
 
 Anon (2019). _Pokémon in Figures_. \[online] The Pokémon Company. Available at: [https://corporate.pokemon.co.jp/en/aboutus/figures/](https://corporate.pokemon.co.jp/en/aboutus/figures/) \[Accessed 21 Mar. 2022].
 
@@ -19,3 +19,7 @@ Cullen, W., Gulati, G. and Kelly, B.D. (2020). Mental health in the Covid-19 pan
 
 
 Clement, J. (2022). _Global unit sales of Pokémon video games 2020_. \[online] Statista. Available at: [https://www.statista.com/statistics/1072224/pokemon-unit-sales-worldwide/](https://www.statista.com/statistics/1072224/pokemon-unit-sales-worldwide/) \[Accessed 6 Apr. 2022].
+
+
+
+Gilbert, N. (2020). _Number of Gamers Worldwide 2020: Demographics, Statistics, and Predictions - Financesonline.com_. \[online] financesonline.com. Available at:[ https://financesonline.com/number-of-gamers-worldwide/](https://financesonline.com/number-of-gamers-worldwide/) \[Accessed 12 May 2022].
