@@ -23,3 +23,7 @@ Clement, J. (2022). _Global unit sales of Pokémon video games 2020_. \[online] 
 
 
 Gilbert, N. (2020). _Number of Gamers Worldwide 2020: Demographics, Statistics, and Predictions - Financesonline.com_. \[online] financesonline.com. Available at:[ https://financesonline.com/number-of-gamers-worldwide/](https://financesonline.com/number-of-gamers-worldwide/) \[Accessed 12 May 2022].
+
+
+
+PEGI (2017). _What do the labels mean?_ \[online] Pegi Public Site. Available at:[ https://pegi.info/what-do-the-labels-mean#](https://pegi.info/what-do-the-labels-mean) \[Accessed 19 May 2022].
