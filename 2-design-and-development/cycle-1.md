@@ -17,9 +17,9 @@ Keyboard Input - The keyboard inputs will be a simple left and right, so as to j
 
 ### Key Variables
 
-| Variable Name | Use                   |
-| ------------- | --------------------- |
-| foo           | does something useful |
+| Variable Name | Use                                            |
+| ------------- | ---------------------------------------------- |
+| Left/Right    | Well allows the player to move left and right  |
 
 ### Pseudocode
 
