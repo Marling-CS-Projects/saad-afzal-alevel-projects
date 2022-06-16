@@ -6,10 +6,14 @@
 
 In this cycle, I aim to create a really basic layout for my game using Kaboom.js. I will make a shape correspond to inputs made by the keyboard.
 
-* [x] Do a thing
-* [x] Do another thing
+* [x] Set up Kaboom.js
+* [x] Make a platform&#x20;
+* [x] Make up a character &#x20;
+* [x] Make the character move with keyboard input
 
 ### Usability Features
+
+Keyboard Input - The keyboard inputs will be a simple left and right, so as to just provide movement for now. It is also easy to remember the controls and what they do.
 
 ### Key Variables
 
