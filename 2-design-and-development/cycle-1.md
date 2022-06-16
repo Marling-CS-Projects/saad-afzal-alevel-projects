@@ -6,8 +6,6 @@
 
 In this cycle, I aim to create a really basic layout for my game using Kaboom.js. I will make a shape correspond to inputs made by the keyboard.
 
-\[describe the cycle]
-
 * [x] Do a thing
 * [x] Do another thing
 
