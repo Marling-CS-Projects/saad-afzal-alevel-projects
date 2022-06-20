@@ -8,8 +8,10 @@ In this cycle, I aim to create a really basic layout for my game using Kaboom.js
 
 * [x] Set up Kaboom.js
 * [x] Make a platform&#x20;
-* [x] Make up a character &#x20;
+* [x] Make a character &#x20;
 * [x] Make the character move with keyboard input
+
+
 
 ### Usability Features
 
@@ -17,14 +19,21 @@ Keyboard Input - The keyboard inputs will be a simple left and right, so as to j
 
 ### Key Variables
 
-| Variable Name | Use                                            |
-| ------------- | ---------------------------------------------- |
-| Left/Right    | Well allows the player to move left and right  |
+| Variable Name | Use                                                                |
+| ------------- | ------------------------------------------------------------------ |
+| speed         | Speed of how fast the player moves the character                   |
+| Space         | Allows the player to jump and have more control of their character |
+| Left/Right    | Well allows the player to move left and right                      |
 
 ### Pseudocode
 
 ```
-procedure do_something
+procedure spawn player (1,10)
+
+Speed = 200
+
+Presskey('a'){
+
     
 end procedure
 ```
