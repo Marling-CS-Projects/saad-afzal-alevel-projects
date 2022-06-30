@@ -33,17 +33,17 @@ procedure spawn player (1,10)
 Speed = 200
 
 Presskey('a')
- playermove left with speed
- playerflip true 
+ playermove left with fixed speed
+ playerflip is true
+ 
+Presskey('d')
+ playermove right with fixed speed
+ playerflip is false 
 
- 
- Presskey('d')
- playermove right with speed
- playerflip false
- 
- Presskey('space')
+Presskey('space')
   if playergrounded
-    the playerjump
+  then playerjump 750
+
 
     
 end procedure
