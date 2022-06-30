@@ -32,15 +32,18 @@ procedure spawn player (1,10)
 
 Speed = 200
 
-Presskey('a'){
+Presskey('a')
  playermove left with speed
  playerflip true 
- )}
+
  
- Presskey('d'){
+ Presskey('d')
  playermove right with speed
  playerflip false
  
+ Presskey('space')
+  if playergrounded
+    the playerjump
 
     
 end procedure
