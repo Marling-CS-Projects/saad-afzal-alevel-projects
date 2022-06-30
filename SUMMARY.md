@@ -16,7 +16,7 @@
 
 * [2.1 Design Frame](2-design-and-development/systems-diagram.md)
 * [2.2.1 Cycle 1 - Initial set up ](2-design-and-development/cycle-1.md)
-* [Page 2](design-and-development/page-2.md)
+* [2.2.1 Cycle 2 - Background and Player](design-and-development/2.2.1-cycle-2-background-and-player.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
