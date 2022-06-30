@@ -15,7 +15,7 @@
 ## 2 Design and Development <a href="#design-and-development" id="design-and-development"></a>
 
 * [2.1 Design Frame](2-design-and-development/systems-diagram.md)
-* [2.2.1 Cycle 1 - Testing Kaboom](2-design-and-development/cycle-1.md)
+* [2.2.1 Cycle 1 - Initial set up ](2-design-and-development/cycle-1.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 

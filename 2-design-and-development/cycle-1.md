@@ -1,4 +1,4 @@
-# 2.2.1 Cycle 1 - Testing Kaboom
+# 2.2.1 Cycle 1 - Initial set up&#x20;
 
 ## Design
 
@@ -33,6 +33,14 @@ procedure spawn player (1,10)
 Speed = 200
 
 Presskey('a'){
+ playermove left with speed
+ playerflip true 
+ )}
+ 
+ Presskey('d'){
+ playermove right with speed
+ playerflip false
+ 
 
     
 end procedure
@@ -42,9 +50,11 @@ end procedure
 
 ### Outcome
 
+The player now has the ability to move left and right on a platform, the player moves at a fixed speed.
+
 ### Challenges
 
-Description of challenges
+One challenge I had was making the player jump successfully.Whenever i would press the space bar it would say that Player.Grounded is not a function. ive tested the same code on another Kaboom.js and it worked.
 
 ## Testing
 
@@ -52,9 +62,38 @@ Evidence for testing
 
 ### Tests
 
-| Test | Instructions  | What I expect     | What actually happens | Pass/Fail |
-| ---- | ------------- | ----------------- | --------------------- | --------- |
-| 1    | Run code      | Thing happens     | As expected           | Pass      |
-| 2    | Press buttons | Something happens | As expected           | Pass      |
+| Test | Instructions    | What I expect                | What actually happens            | Pass/Fail |
+| ---- | --------------- | ---------------------------- | -------------------------------- | --------- |
+| 1    | Pressed space   | Player jumps                 | Game stops working               | Fail      |
+| 1    | Run code        | Player spawns succesfully    | Player spawned successfully      | Pass      |
+| 2    | Pressed A and D | Player moves left and right  | Player has moved left and right  | Pass      |
 
 ### Evidence
+
+![](<../.gitbook/assets/image (3).png>)
+
+{% tabs %}
+{% tab title="First Tab" %}
+```
+ const SPEED = 200
+
+  keyDown("a", () => {
+    Player.move(-SPEED , 0)
+    Player.flipX(true);
+  });
+
+  keyDown("d", () => {
+    Player.move(SPEED , 0)
+   Player.flipX(false);
+  });
+  
+  
+  keyPress("space", () => {
+     if (Player.grounded()){
+     Player.jump(750)
+  }
+
+
+```
+{% endtab %}
+{% endtabs %}
