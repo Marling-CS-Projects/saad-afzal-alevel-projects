@@ -73,7 +73,7 @@ Evidence for testing
 
 ### Evidence
 
-![Character on platform ](<../.gitbook/assets/image (2).png>)
+![Character on platform ](<../.gitbook/assets/image (2) (2).png>)
 
 {% tabs %}
 {% tab title="First Tab" %}
