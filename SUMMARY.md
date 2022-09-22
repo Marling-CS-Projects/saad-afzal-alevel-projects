@@ -17,7 +17,7 @@
 * [2.1 Design Frame](2-design-and-development/systems-diagram.md)
 * [2.2.1 Cycle 1 - Initial set up ](2-design-and-development/cycle-1.md)
 * [2.2.1 Cycle 2 - Background and Player](design-and-development/2.2.1-cycle-2-background-and-player.md)
-* [2.2.1 Cycle 3 - Walls](design-and-development/2.2.1-cycle-3-walls.md)
+* [2.2.1 Cycle 3 - Walls and Character](design-and-development/2.2.1-cycle-3-walls-and-character.md)
 * [Copy of 2.2.1 Cycle 3 - Walls](design-and-development/copy-of-2.2.1-cycle-3-walls.md)
 * [Copy of Copy of 2.2.1 Cycle 3 - Walls](design-and-development/copy-of-copy-of-2.2.1-cycle-3-walls.md)
 * [Copy of Copy of Copy of 2.2.1 Cycle 3 - Walls](design-and-development/copy-of-copy-of-copy-of-2.2.1-cycle-3-walls.md)
