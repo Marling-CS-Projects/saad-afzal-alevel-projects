@@ -54,6 +54,6 @@ In this cycle I wanna focus on making the background and platform to stand on go
 
 ### Evidence
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 ###

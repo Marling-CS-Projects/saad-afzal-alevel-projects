@@ -1,8 +1,8 @@
-# Copy of 2.2.1 Cycle 3 - Walls
+# Copy of 2.2.1 Cycle 3 - Top/bottom Walls and Camera
 
 ### Objectives
 
-In this cycle I wanna focus on making the background and platform to stand on good. I also want to focus on making the character jump succesfully
+In this cycle I aim to&#x20;
 
 *
 
@@ -54,6 +54,6 @@ In this cycle I wanna focus on making the background and platform to stand on go
 
 ### Evidence
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 ###
