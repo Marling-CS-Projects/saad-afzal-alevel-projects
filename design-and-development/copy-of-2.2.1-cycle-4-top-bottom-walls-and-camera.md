@@ -1,10 +1,11 @@
-# Copy of 2.2.1 Cycle 3 - Top/bottom Walls and Camera
+# Copy of 2.2.1 Cycle 4 - Top/bottom Walls and Camera
 
 ### Objectives
 
-In this cycle I aim to&#x20;
+The top and bottom walls of the level need to blend in to a  similar colour pallette to the side walls and the camera of the game needs to follow the player&#x20;
 
-*
+* [x] Successfully make the top/bottom walls and implement them correctly
+* [x] Succesfully make the camera follow the player&#x20;
 
 ### Usability Features
 
