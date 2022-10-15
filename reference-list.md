@@ -27,3 +27,5 @@ Gilbert, N. (2020). _Number of Gamers Worldwide 2020: Demographics, Statistics, 
 
 
 PEGI (2017). _What do the labels mean?_ \[online] Pegi Public Site. Available at:[ https://pegi.info/what-do-the-labels-mean#](https://pegi.info/what-do-the-labels-mean) \[Accessed 19 May 2022].
+
+Stanojevic, Mi. (2022). _7 Best Browsers for Gaming in 2022 \[Ranked by Gamers]_. \[online] Windows Report - Error-free Tech Life. Available at: [https://windowsreport.com/best-browser-gaming/](https://windowsreport.com/best-browser-gaming/) \[Accessed 15 Oct. 2022].
