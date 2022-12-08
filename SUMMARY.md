@@ -18,7 +18,7 @@
 * [2.2.1 Cycle 1 - Initial set up ](2-design-and-development/cycle-1.md)
 * [2.2.1 Cycle 2 - Background and Player](design-and-development/2.2.1-cycle-2-background-and-player.md)
 * [2.2.1 Cycle 3 - Walls and Character](design-and-development/2.2.1-cycle-3-walls-and-character.md)
-* [2.2.1 Cycle 4 - Rest of the level layout and Camera](design-and-development/2.2.1-cycle-4-rest-of-the-level-layout-and-camera.md)
+* [2.2.1 Cycle 4 - Rest of the level layout and Camera](design-and-development/2.2.1-cycle-4-top-bottom-walls-and-camera.md)
 * [2.2.1 Cycle 5 -](design-and-development/2.2.1-cycle-5.md)
 * [2.2.1 Cycle 6 -](design-and-development/2.2.1-cycle-6.md)
 * [2.2.1 Cycle 7 -](design-and-development/2.2.1-cycle-7.md)
