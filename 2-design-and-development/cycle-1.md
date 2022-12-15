@@ -68,8 +68,8 @@ Evidence for testing
 | Test | Instructions    | What I expect                | What actually happens            | Pass/Fail |
 | ---- | --------------- | ---------------------------- | -------------------------------- | --------- |
 | 1    | Pressed space   | Player jumps                 | Game stops working               | Fail      |
-| 1    | Run code        | Player spawns succesfully    | Player spawned successfully      | Pass      |
-| 2    | Pressed A and D | Player moves left and right  | Player has moved left and right  | Pass      |
+| 2    | Run code        | Player spawns succesfully    | Player spawned successfully      | Pass      |
+| 3    | Pressed A and D | Player moves left and right  | Player has moved left and right  | Pass      |
 
 ### Evidence
 
