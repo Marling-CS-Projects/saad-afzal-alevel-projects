@@ -22,6 +22,7 @@
 * [2.2.1 Cycle 5 - Swinging sword and enemy](design-and-development/2.2.1-cycle-5-swinging-sword-and-enemy.md)
 * [2.2.1 Cycle 6 -Adding a key and win screen](design-and-development/2.2.1-cycle-6-adding-a-key-and-win-screen.md)
 * [2.2.1 Cycle 7 - Tutorial](design-and-development/2.2.1-cycle-7-tutorial.md)
+* [2.2.1 Cycle 8 - Pause menu and lose scene](design-and-development/2.2.1-cycle-8-pause-menu-and-lose-scene.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
