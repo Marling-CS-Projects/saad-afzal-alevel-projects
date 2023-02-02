@@ -2,15 +2,15 @@
 description: Computer Science H446-03
 ---
 
-# Some Generic Project
+# Living in my moms basement (game)
 
 |                  |                |
 | ---------------- | -------------- |
 | Candidate Name   | Saad Afzal     |
-| Candidate Number | 9999           |
+| Candidate Number | 1034           |
 | Centre Name      | Marling School |
 | Centre Number    | 57037          |
 
 Note to Assessor: This project has been created with interactive elements. In order to view as intended by the students, please follow the secure link below.
 
-[https://replit.com/@SaadAfzal1/Project#code/main.js](https://replit.com/@SaadAfzal1/Project#code/main.js)
+[https://marling-school.gitbook.io/saad-afzal-project/PhqjAKSN3chhjHr981jE/](https://marling-school.gitbook.io/saad-afzal-project/PhqjAKSN3chhjHr981jE/)
